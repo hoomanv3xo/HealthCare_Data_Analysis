@@ -37,6 +37,6 @@ The pipeline cleans raw input data by addressing duplicate records, missing valu
 ## Data Visualization
 
 ![HealthCare1](image1.png)
-![HealthCare2](image2.png)
+
 
 
