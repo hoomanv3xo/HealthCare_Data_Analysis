@@ -34,4 +34,9 @@ The pipeline cleans raw input data by addressing duplicate records, missing valu
    * `age_group`: Categorized into `Pediatric (<18)`, `Young Adult (18-35)`, `Adult (36-60)`, and `Senior (61+)`.
    * `admission_year`: Extracted integer year for trend reporting.
 
+## Data Visualization
+
+![HealthCare1](image1.png)
+![HealthCare2](image2.png)
+
 
