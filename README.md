@@ -1,4 +1,3 @@
-# HealthCare_Data_Analysis
 # Healthcare Analytics & Data Pipeline (Hex Workspace)
 
 ## Overview
